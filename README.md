@@ -1,5 +1,5 @@
-# spring-boot-examples-mq-to-rest
-Spring Boot Examples on MQ to Rest
+# spring-boot-examples-feign-client
+Spring Boot Examples on Feign Clients
 
 A multi-module Maven project with two Spring Boot apps:
 
